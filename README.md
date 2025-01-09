@@ -6,7 +6,7 @@ The project includes code for data preprocessing, model training, evaluation, an
 
 ## File
 
-- `Wynand_Neethling_Assignment2_Code.ipynb`: The main Jupyter Notebook containing the entire code for the project.
+- `nlp-skipgram-embeddings.ipynb`: The main Jupyter Notebook containing the entire code for the project.
 
 ## Libraries Used
 
